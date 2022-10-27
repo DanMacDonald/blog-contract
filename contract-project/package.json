@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "name": "contract-project",
+  "version": "1.0.0",
+  "description": "Project to write and deploy a SWC contract",
+  "main": "index.js"
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/node": "^16.10.3",
+    "arlocal": "^1.1.58",
+    "arweave": "^1.11.6",
+    "ts-node": "^10.9.1",
+    "warp-contracts": "^1.2.13"
+  }
+}
